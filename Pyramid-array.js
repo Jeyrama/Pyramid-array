@@ -9,3 +9,6 @@ returns an Array of ascending length subarrays.
 
 Note: the subarrays should be filled with 1s
 */
+
+
+// Solution
